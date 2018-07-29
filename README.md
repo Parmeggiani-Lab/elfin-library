@@ -1,6 +1,6 @@
 # Elfin Library
 
-This repo serves the protein data produced by [elfin-data](https://github.com/joy13975/elfin-data)'s data processing. 
+This repo serves protein data produced by [elfin-data](https://github.com/joy13975/elfin-data)'s data processing. 
 
 ```xdb.json```: a dictionary data structure containing transformation data between modules and collision radii data.
 
