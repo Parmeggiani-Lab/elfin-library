@@ -1,4 +1,4 @@
-# Elfin Library
+# elfin-library
 
 This repo serves protein data produced by [elfin-data](https://github.com/joy13975/elfin-data)'s data processing. 
 
