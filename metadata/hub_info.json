@@ -1,6 +1,8 @@
 {
     "D18_C2_03":{
-        "component_info":{
+        "symmetric":true,
+        "oligomer_type":"dimer",
+        "component_data":{
             "A":{
                 "single_name":"D18",
                 "c_free":false,
@@ -11,12 +13,12 @@
                 "c_free":false,
                 "n_free":true
             }
-        },
-        "oligomer_type":"dimer",
-        "symmetric":true
+        }
     },
     "D18_C3_04":{
-        "component_info":{
+        "symmetric":true,
+        "oligomer_type":"trimer",
+        "component_data":{
             "A":{
                 "single_name":"D18",
                 "c_free":false,
@@ -32,12 +34,12 @@
                 "c_free":false,
                 "n_free":true
             }
-        },
-        "oligomer_type":"trimer",
-        "symmetric":true
+        }
     },
     "D18_aC2_12":{
-        "component_info":{
+        "symmetric":false,
+        "oligomer_type":"dimer",
+        "component_data":{
             "A":{
                 "single_name":"D18",
                 "c_free":false,
@@ -48,12 +50,12 @@
                 "c_free":false,
                 "n_free":true
             }
-        },
-        "oligomer_type":"dimer",
-        "symmetric":false
+        }
     },
     "D18_aC2_13":{
-        "component_info":{
+        "symmetric":false,
+        "oligomer_type":"dimer",
+        "component_data":{
             "A":{
                 "single_name":"D18",
                 "c_free":false,
@@ -64,12 +66,12 @@
                 "c_free":false,
                 "n_free":true
             }
-        },
-        "oligomer_type":"dimer",
-        "symmetric":false
+        }
     },
     "D49_aC2_24":{
-        "component_info":{
+        "symmetric":false,
+        "oligomer_type":"dimer",
+        "component_data":{
             "A":{
                 "single_name":"D49",
                 "c_free":true,
@@ -80,12 +82,12 @@
                 "c_free":true,
                 "n_free":false
             }
-        },
-        "oligomer_type":"dimer",
-        "symmetric":false
+        }
     },
     "D4_C3_02":{
-        "component_info":{
+        "symmetric":true,
+        "oligomer_type":"trimer",
+        "component_data":{
             "A":{
                 "single_name":"D4",
                 "c_free":false,
@@ -101,12 +103,12 @@
                 "c_free":false,
                 "n_free":true
             }
-        },
-        "oligomer_type":"trimer",
-        "symmetric":true
+        }
     },
     "D4_aC2_08":{
-        "component_info":{
+        "symmetric":false,
+        "oligomer_type":"dimer",
+        "component_data":{
             "A":{
                 "single_name":"D4",
                 "c_free":true,
@@ -117,12 +119,12 @@
                 "c_free":true,
                 "n_free":false
             }
-        },
-        "oligomer_type":"dimer",
-        "symmetric":false
+        }
     },
     "D79_aC2_02":{
-        "component_info":{
+        "symmetric":false,
+        "oligomer_type":"dimer",
+        "component_data":{
             "A":{
                 "single_name":"D79",
                 "c_free":true,
@@ -133,12 +135,12 @@
                 "c_free":true,
                 "n_free":false
             }
-        },
-        "oligomer_type":"dimer",
-        "symmetric":false
+        }
     },
     "D79_aC2_04":{
-        "component_info":{
+        "symmetric":false,
+        "oligomer_type":"dimer",
+        "component_data":{
             "A":{
                 "single_name":"D79",
                 "c_free":true,
@@ -149,12 +151,12 @@
                 "c_free":true,
                 "n_free":false
             }
-        },
-        "oligomer_type":"dimer",
-        "symmetric":false
+        }
     },
     "D81_aC2_05":{
-        "component_info":{
+        "symmetric":false,
+        "oligomer_type":"dimer",
+        "component_data":{
             "A":{
                 "single_name":"D81",
                 "c_free":true,
@@ -165,12 +167,12 @@
                 "c_free":true,
                 "n_free":false
             }
-        },
-        "oligomer_type":"dimer",
-        "symmetric":false
+        }
     },
     "D81_aC2_09":{
-        "component_info":{
+        "symmetric":false,
+        "oligomer_type":"dimer",
+        "component_data":{
             "A":{
                 "single_name":"D81",
                 "c_free":true,
@@ -181,12 +183,12 @@
                 "c_free":true,
                 "n_free":false
             }
-        },
-        "oligomer_type":"dimer",
-        "symmetric":false
+        }
     },
     "D49_aC2_ext":{
-        "component_info":{
+        "symmetric":false,
+        "oligomer_type":"dimer",
+        "component_data":{
             "C":{
                 "single_name":"D49",
                 "c_free":true,
@@ -197,8 +199,6 @@
                 "c_free":true,
                 "n_free":true
             }
-        },
-        "oligomer_type":"dimer",
-        "symmetric":false
+        }
     }
 }
